@@ -1,5 +1,5 @@
 import './App.css'
-import Card from './components/card'
+import Card from './components/Card'
 // import backgroundImg from './assets/background-img.png'
 
 function App() {
